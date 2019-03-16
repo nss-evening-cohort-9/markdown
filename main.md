@@ -1,3 +1,5 @@
+To see the code in this file look at the raw version of the file and comment out the section you want to see.
+
 <!-- ## Headings
 # H1
 ## H2
