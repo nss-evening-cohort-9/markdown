@@ -4,7 +4,7 @@
 This repository explains how to write different things in markdown.
 
 ## Screenshots
-![Main View]()
+![Main View](https://raw.githubusercontent.com/nss-evening-cohort-9/markdown/master/screenshots/main_view.png)
 
 ## Requirements
 * None
